@@ -66,3 +66,13 @@ El script realiza un análisis multi-segmento, incluyendo:
 
 ## Visualizaciones Generadas
 
+<img width="1241" height="696" alt="image" src="https://github.com/user-attachments/assets/127390ac-b12d-4126-bbb4-26b98d1c3ac9" />
+
+<img width="1489" height="825" alt="image" src="https://github.com/user-attachments/assets/7d69f115-4027-491f-b050-849e2c050c3e" />
+
+<img width="1240" height="704" alt="image" src="https://github.com/user-attachments/assets/e7769565-69a0-4c6f-9466-6d5107ee70d8" />
+
+<img width="1482" height="700" alt="image" src="https://github.com/user-attachments/assets/3ea1cbcd-d3dc-4b70-81f9-f9cf3cdfb553" />
+
+<img width="1491" height="825" alt="image" src="https://github.com/user-attachments/assets/85640bd2-c96f-48bd-8766-0410421a396e" />
+
